@@ -1,210 +1,81 @@
-import Head from 'next/head'
-import Link from 'next/link'
+import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="container">
+    <>
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Hai</title>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          rel="stylesheet"
+        ></link>
       </Head>
-
-      <main>
-        <h1 className="title">
-          Read <Link href="/posts/first-post"><a>this page!</a></Link>
-        </h1>
-
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-
-        <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className="card">
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className="card"
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className="card"
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+      <div className="flex container w-full h-12">
+        <div className="w-1/3 hidden md:flex h-12"></div>
+        <div className="w-full md:w-1/3 h-12 text-center m-6">
+          <h1 className="h1 mb-10">The Sun</h1>
+          <p>Namanya <p className="m-0 font-medium inline">Aina</p>, saat tulisan ini ditulis, <p className="m-0 font-medium inline">Aina</p> sedang menunggu hasil ujian masuk universitas.</p>
+          <p>Sebagai penulis, jujur aku gatau apa-apa tentang <p className="m-0 font-medium inline">Aina</p> karena sebenarnya aku sendiri gapernah ngobrol langsung sama <p className="m-0 font-medium inline">Aina</p>, hanya sekedar chat aja. Pernah sih ngeliat <p className="m-0 font-medium inline">Aina</p> langsung, tapi itu udah setahun lebih yang lalu waktu aku masih kelas 12.</p>
+          <p>Selama aku chat sama <p className="m-0 font-medium inline">Aina</p>, <p className="m-0 font-medium inline">Aina</p> ini orangnya enak diajak ngobrol meskipun dalam beberapa waktu <p className="m-0 font-medium inline">Aina</p> bisa tiba-tiba jadi jutek hahaha, agak nyebelin sih.
+Meskipun kadang nyebelin, tapi <p className="m-0 font-medium inline">Aina</p> ini orang yang bener-bener berharga buat aku. Tau gak kenapa?</p>
+          <p className="mt-10 mb-10 font-bold"><p className="m-0 font-medium inline">Aina</p> selalu aku jadiin motivasi di saat terpuruk, loh kok bisa? </p>
+          <p>Jadi gini, (siapin 5-10 menit buat baca h3h3h3) di akhir kelas 12 sekitar Maret-April 2019, waktu aku duduk-duduk di depan ruang BK aku gak sengaja ngeliat si <p className="m-0 font-medium inline">Aina</p> ini lagi jalan sama temannya ke masjid. Entah kenapa selama 2 tahun <p className="m-0 font-medium inline">Aina</p> sekolah di sini, aku baru sadar kalau ternyata ada wanita ini di sekolah, manis banget eh haha.</p>
+          <p>Setelah itu aku cari info tentang <p className="m-0 font-medium inline">Aina</p>, dan info yang aku dapatkan bener-bener buat kagum banget. <p className="m-0 font-medium inline">Aina</p> lancar berbahasa Indonesia, Inggris, Prancis, dan Jepang (mungkin masih ada yg lainnya kali ya haha), dan <p className="m-0 font-medium inline">Aina</p> selalu jadi nomer 1 di kelasnya, siapa yang gak kagum coba? wkwk.</p>
+          <p>Biasanya nih, kalau aku kagum sama seseorang perempuan, aku bakal langsung follow ignya terus modus chat deh, tapi si <p className="m-0 font-medium inline">Aina</p> ini beda, gatau kenapa aku gak berani buat deketin <p className="m-0 font-medium inline">Aina</p> saat itu. "Kamu apaan dah, duit masih minta ortu, ilmu gak seberapa, beraninya deketin anak orang yang ilmunya jauh lebih banyak dari kamu, lebih muda lagi, gak malu?" oke saat itu aku memutuskan cukup untuk mengagumi <p className="m-0 font-medium inline">Aina</p> aja.</p>
+          <p>Singkat cerita, sekitar 4 bulan kemudian aku gagal ujian SIMAK UI setelah ambis berbulan-bulan, kecewa sih, tapi ya life must go on. Saat itu aku kebetulan lagi dekat sama seseorang, tapi dia tiba-tiba ngilang setelah tau aku gagal simak ui, ya aku sadar diri sih, dia udah jadi mahasiswi sedangkan aku malah jadi pengangguran haha.</p>
+          <p>Saat itu Si <p className="m-0 font-medium inline">Aina</p> dateng lagi nih di pikiranku, aku bayangin hidup bareng <p className="m-0 font-medium inline">Aina</p> dengan kondisiku yang udah mapan di masa depan hahaha. Berkali-kali bukain ignya yang diprivate, tapi gak berani follow wkwk. Beberapa waktu kemudian aku habiskan untuk refreshing sejenak sambil mempelajari programming dan upgrade diri.</p>
+          <p>Desember tiba, saat itu aku yang udah gak tahan lagi pingin follow <p className="m-0 font-medium inline">Aina</p>, akhirnya aku follow deh. Dan aku seneng banget <p className="m-0 font-medium inline">Aina</p> ngefollback hahaah, jadi makin semangat buat terus upgrade diri, beneran, hal yang mungkin bagi <p className="m-0 font-medium inline">Aina</p> gak seberapa itu bener-bener nyemangatin aku.</p>
+          <p>
+          Awal Februari tiba, setelah aku coba melamar kerja sebagai Software Engineer, aku diterima di 2 perusahaan, satu di Depok Jaksel (tempat yang sama dengan kampus idamanku dulu)
+dan satunya di Jogja. Gajinya? sekitar 2.5-3 kali umr Jogja (saat tulisan ini ditulis, umr jogja sekitar 2 juta) , ini bener-bener bikin aku kagum deh pokoknya, bisa dibilang di sini titik balik hidupku, Alhamdulillah.
+          </p>
+          <p>
+          Bulan April, dengan penuh keberanian dan pemikiran "aku dah bisa ngehasilin uang sendiri, satu blokade di pemikiranku buat chat <p className="m-0 font-medium inline">Aina</p> udah berhasil aku tembus, sekarang pokoknya aku mau chat <p className="m-0 font-medium inline">Aina</p>, bodo amattt" dan ya, aku akhirnya dm <p className="m-0 font-medium inline">Aina</p> saat itu. Kalau gak salah isinya "Hai dek, apa kabar?" wkwk aku deg-degan banget waktu itu, sebelum akhirnya jadi seneng banget karena <p className="m-0 font-medium inline">Aina</p> bales.
+          </p>
+          <p>
+          Singkat cerita kita dm-dman dan aku modus tanya punya wa atau enggak (padahal pingin save nomernya haha) dan yuhuu dikasih,seneng banget cuy sampai jingkrak2 aku saat itu hahahaahah
             </p>
-          </a>
+            <p>
+            Akhirnya kita chat di wa, awalnya aku agak intense chat <p className="m-0 font-medium inline">Aina</p>, tapi akhirnya sadar aku ganggu <p className="m-0 font-medium inline">Aina</p> haha, akhirnya aku jarang-jarangin deh chatnya. Sampai <p className="m-0 font-medium inline">Aina</p> selesai utbk dan akhirnya kita mulai chat lagi. Saat itu aku berpikir kalau ini udah saatnya buat ungkapin apa yang ada di dalam pikiran dan hati selama setahun lebih ini dan ya, aku menulis ini.
+              </p>
+            <p>
+              Makasih dek, udah selalu menjadi motivasiku selama setahun lebih ini, kalau detik itu aku gak ngeliat kamu jalan di depan ruang bk, mungkin sekarang bakal beda ceritanya.
+Kalau sempat dan bersedia, ayo ketemuan dan jalan bareng dek, hehe
+              </p>
         </div>
-      </main>
+        <div className="w-1/3 hidden md:flex h-12"></div>
+      </div>
 
-      <footer>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
-        </a>
-      </footer>
-
-      <style jsx>{`
-        .container {
-          min-height: 100vh;
-          padding: 0 0.5rem;
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-        }
-
-        main {
-          padding: 5rem 0;
-          flex: 1;
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-        }
-
-        footer {
-          width: 100%;
-          height: 100px;
-          border-top: 1px solid #eaeaea;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-
-        footer img {
-          margin-left: 0.5rem;
-        }
-
-        footer a {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-
-        a {
-          color: inherit;
-          text-decoration: none;
-        }
-
-        .title a {
-          color: #0070f3;
-          text-decoration: none;
-        }
-
-        .title a:hover,
-        .title a:focus,
-        .title a:active {
-          text-decoration: underline;
-        }
-
-        .title {
-          margin: 0;
-          line-height: 1.15;
-          font-size: 4rem;
-        }
-
-        .title,
-        .description {
-          text-align: center;
-        }
-
-        .description {
-          line-height: 1.5;
-          font-size: 1.5rem;
-        }
-
-        code {
-          background: #fafafa;
-          border-radius: 5px;
-          padding: 0.75rem;
-          font-size: 1.1rem;
-          font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-            DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
-        }
-
-        .grid {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          flex-wrap: wrap;
-
-          max-width: 800px;
-          margin-top: 3rem;
-        }
-
-        .card {
-          margin: 1rem;
-          flex-basis: 45%;
-          padding: 1.5rem;
-          text-align: left;
-          color: inherit;
-          text-decoration: none;
-          border: 1px solid #eaeaea;
-          border-radius: 10px;
-          transition: color 0.15s ease, border-color 0.15s ease;
-        }
-
-        .card:hover,
-        .card:focus,
-        .card:active {
-          color: #0070f3;
-          border-color: #0070f3;
-        }
-
-        .card h3 {
-          margin: 0 0 1rem 0;
-          font-size: 1.5rem;
-        }
-
-        .card p {
-          margin: 0;
-          font-size: 1.25rem;
-          line-height: 1.5;
-        }
-
-        .logo {
-          height: 1em;
-        }
-
-        @media (max-width: 600px) {
-          .grid {
-            width: 100%;
-            flex-direction: column;
-          }
-        }
-      `}</style>
-
-      <style jsx global>{`
+      <style global jsx>{`
         html,
-        body {
-          padding: 0;
-          margin: 0;
-          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-            Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-            sans-serif;
+        body,
+        body > div:first-child,
+        div#__next,
+        div#__next > div,
+        div#__next > div > div {
+          height: 100%;
+          width: 100%;
+          background: #FAFAFA;
         }
 
-        * {
-          box-sizing: border-box;
+        .container {
+          width: 100%;
+          height: 100%;
+        }
+
+        h1 {
+          font-size: 2rem;
+          font-family: "Roboto", sans-serif;
+          font-weight: 200;
+        }
+
+        p {
+          font-size: 1rem;
+          font-family: "Roboto", sans-serif;
+          font-weight: 300;
+          margin-bottom: 16px
         }
       `}</style>
-    </div>
-  )
+    </>
+  );
 }
