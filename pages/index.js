@@ -34,14 +34,14 @@ dan satunya di Jogja. Gajinya? sekitar 2.5-3 kali umr Jogja (saat tulisan ini di
           </p>
           <p>
           Singkat cerita kita dm-dman dan aku modus tanya punya wa atau enggak (padahal pingin save nomernya haha) dan yuhuu dikasih,seneng banget cuy sampai jingkrak2 aku saat itu hahahaahah
-            </p>
-            <p>
-            Akhirnya kita chat di wa, awalnya aku agak intense chat <p className="m-0 font-medium inline">Aina</p>, tapi akhirnya sadar aku ganggu <p className="m-0 font-medium inline">Aina</p> haha, akhirnya aku jarang-jarangin deh chatnya. Sampai <p className="m-0 font-medium inline">Aina</p> selesai utbk dan akhirnya kita mulai chat lagi. Saat itu aku berpikir kalau ini udah saatnya buat ungkapin apa yang ada di dalam pikiran dan hati selama setahun lebih ini dan ya, aku menulis ini.
-              </p>
-            <p>
-              Makasih dek, udah selalu menjadi motivasiku selama setahun lebih ini, kalau detik itu aku gak ngeliat kamu jalan di depan ruang bk, mungkin sekarang bakal beda ceritanya.
+          </p>
+          <p>
+          Akhirnya kita chat di wa, awalnya aku agak intense chat <p className="m-0 font-medium inline">Aina</p>, tapi akhirnya sadar aku ganggu <p className="m-0 font-medium inline">Aina</p> haha, akhirnya aku jarang-jarangin deh chatnya. Sampai <p className="m-0 font-medium inline">Aina</p> selesai utbk dan akhirnya kita mulai chat lagi. Saat itu aku berpikir kalau ini udah saatnya buat ungkapin apa yang ada di dalam pikiran dan hati selama setahun lebih ini dan ya, aku menulis ini.
+          </p>
+          <p>
+          Makasih dek, udah selalu menjadi motivasiku selama setahun lebih ini, kalau detik itu aku gak ngeliat kamu jalan di depan ruang bk, mungkin sekarang bakal beda ceritanya.
 Kalau sempat dan bersedia, ayo ketemuan dan jalan bareng dek, hehe
-              </p>
+          </p>
         </div>
         <div className="w-1/3 hidden md:flex h-12"></div>
       </div>
